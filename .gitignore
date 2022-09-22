@@ -1,0 +1,13 @@
+# img
+*.jpg
+*.png
+img/
+svg/
+
+# videos
+*.mp4
+
+# log
+*.log
+
+password.txt
